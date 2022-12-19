@@ -1,0 +1,15 @@
+from, to, relation
+pr, me, 6
+me, nda, 4
+mr, mf, 2
+cw, afd, 5
+rl, afd, 5
+pw, rp, 1
+bw, afd, 5
+am, nda, 5
+rp, nda, 5
+pw, nda, 5
+cw, rl, 3
+me, rp, 3
+rp, pw, 3
+me, pw, 3
