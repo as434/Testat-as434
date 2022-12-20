@@ -1,4 +1,10 @@
-Edgelist: relationship
+Edgelist Attribute
+
+from: Knoten, von dem die Verbindung ausgeht
+
+to: Knoten, der die Verbindung erhält
+
+relationship: Beziehungsart zwischen den einzelnen Personen
 1, Freunde
 2, Liebe
 3, Kollegen oder tätig in derselben Vereinigung
@@ -6,6 +12,14 @@ Edgelist: relationship
 5, Mitglied
 6, Geldgeber
 
-Nodelist: type
+
+Node Attribute
+id: Kürzel der einzelnen Personen zur Identifikation
+
+name: ganzer Name der Personen
+
+type:
 1, Personen
 2, Organisationen oder Vereinigungen
+
+sector: zeigt an, zu welchem Bereich die einzelnen Personen gehören
