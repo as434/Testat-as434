@@ -1,0 +1,11 @@
+Edgelist: relationship
+1, Freunde
+2, Liebe
+3, Kollegen oder tätig in derselben Vereinigung
+4, Gründer
+5, Mitglied
+6, Geldgeber
+
+Nodelist: type
+1, Personen
+2, Organisationen oder Vereinigungen
